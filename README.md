@@ -17,3 +17,6 @@ Raspberry Pi 4 compatible, USB connector , Range 40 (Max) meter
 http://www.jrtsensor.com/sale-11867311-rs485-jrt-40m-701a-fda-certificates-high-frequency-laser-distance-sensor-module.html
 http://www.jrtsensor.com/sale-11898381-golf-laser-range-finder-module-excellent-measure-solutions-40-meter-range.html
 https://www.jrt-measure.com/industrial-laser-distance-sensor/55718125.html
+
+
+https://drive.google.com/file/d/1fjMl2TXHXjSNu-q45DFSRo_3hX4X_lzO/view?usp=sharing
