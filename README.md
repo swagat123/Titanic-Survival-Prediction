@@ -19,4 +19,3 @@ http://www.jrtsensor.com/sale-11898381-golf-laser-range-finder-module-excellent-
 https://www.jrt-measure.com/industrial-laser-distance-sensor/55718125.html
 
 
-https://drive.google.com/file/d/1fjMl2TXHXjSNu-q45DFSRo_3hX4X_lzO/view?usp=sharing
