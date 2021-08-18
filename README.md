@@ -61,3 +61,27 @@ https://comidoc.net/udemy/customer-lifetime-value-predictive-model-with-python
 NBD
 https://github.com/dfadeeff/CLTV/blob/master/Pareto_NBD.ipynb
 
+**********************************
+
+
+https://github.com/GoogleCloudPlatform
+
+https://github.com/Arijit-datascience/Customer-Segmentation/blob/main/customer_segmentation.ipynb
+
+https://www.kaggle.com/ravijeetkr/predicting-customer-lifetime-value-eda-modelling
+
+https://comidoc.net/udemy/customer-lifetime-value-predictive-model-with-python
+
+https://www.owox.com/blog/use-cases/customer-lifetime-value/
+https://www.kaggle.com/kyungapark/a-machine-learning-project-ltv-prediction
+
+https://syncedreview.com/2017/08/16/customer-lifetime-value-prediction-using-embeddings/
+
+*****
+
+DNN
+https://antonsruberts.github.io/DNN-for-CLV/
+https://github.com/AntonsRuberts/datascience_marketing/blob/master/DNN%20vs%20BG_NBD%20for%20CLV.ipynb
+
+
+
