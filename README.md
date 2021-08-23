@@ -83,5 +83,25 @@ DNN
 https://antonsruberts.github.io/DNN-for-CLV/
 https://github.com/AntonsRuberts/datascience_marketing/blob/master/DNN%20vs%20BG_NBD%20for%20CLV.ipynb
 
+*********************************
+
+New links 
+https://github.com/CamDavidsonPilon/lifetimes/blob/master/lifetimes/fitters/beta_geo_fitter.py
+https://github.com/k-bosko/CLV_prediction/blob/master/CLV_prediction.ipynb
+https://github.com/Shailaja-Gupta/Customer_Lifetime_Value_Prediction/blob/master/Customer%20Lifetime%20Value%20calculation.ipynb
+https://medium.com/swlh/predict-customer-lifetime-value-with-machine-learning-545624073d14
+
+https://www.quora.com/How-do-I-build-a-model-to-predict-customer-lifetime-value-for-a-transactional-business
+
+https://exponea.com/blog/customer-lifetime-value-guide/
+
+https://medium.com/syncedreview/customer-lifetime-value-prediction-using-embeddings-53f54e2ac59d
+
+https://www.slideshare.net/EricMehes/predict-customer-lifetime-value-presentation
+
+EDA
+*************
+
+https://www.kaggle.com/michaelfumery/e-commerce-cleaning-and-eda
 
 
